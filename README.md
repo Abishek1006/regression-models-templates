@@ -31,7 +31,7 @@ The `simple_linear_regression` folder contains a template for fitting a simple l
 
 If you are using your own dataset, don't forget to:
 1. **Replace the CSV file**: You should replace the provided `Salary_Data.csv` with your own CSV file.
-2. **Modify the Code**: Ensure that the CSV file path in the code matches your new file. For example:
+2. **Modify the Code**: Ensure that the CSV file path in the code matches your new file. For ex:
    
    ```python
    dataset = pd.read_csv('Your_Dataset.csv')
